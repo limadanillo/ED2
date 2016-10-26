@@ -1,3 +1,7 @@
+/*Algoritmo de Busca por Palavras com Uso de Autômato
+*Search algorithm for words with Use Automaton
+*
+*/
 
 #include <cstdio>
 #include <iostream>
